@@ -1071,3 +1071,13 @@ A curated list of awesome JavaScript frameworks, libraries and software.
 * [jakejs/jake](https://github.com/jakejs/jake) - JavaScript build tool, similar to Make or Rake. Built to work with Node.js.
 * [open-wc/open-wc](https://github.com/open-wc/open-wc) - Open Web Components: guides, tools and libraries for developing web components.
 * [gcanti/tcomb](https://github.com/gcanti/tcomb) - Type checking and DDD for JavaScript
+
+## Maintained by Playcode
+
+This fork is maintained by [Ruslan Ianberdin](https://github.com/ianberdin),
+founder of [Playcode](https://playcode.io), the AI website builder and AI app
+builder for creating, editing, hosting, and publishing live websites and web apps.
+
+- [AI Website Builder](https://playcode.io/ai-website-builder)
+- [Playcode homepage](https://playcode.io)
+- [Watch the demo](https://www.youtube.com/watch?v=aK7E_XtBynA)
